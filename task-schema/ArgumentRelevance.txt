@@ -1,0 +1,41 @@
+version: 4
+
+topic 1 Argument relevance
+
+
+#"""Instructions: What role does the bolded argument play in this article? Read through the article, highlighting sections of the article to illustrate your answers where appropriate. You can highlight multiple sections for one answer. To delete a highlight, simply click on it and hit delete. You will have an opportunity to review your answers at the end."""
+
+
+1.01 cl The bolded argument is....
+1.01.01 The main argument of the article
+1.01.02 One of several key arguments
+1.01.03 A minor or side argument
+1.01.04 Irrelevant to the main argument(s) of the article
+1.01.05 Effectively undermined by the main argument(s) of the article
+1.01.06 Successfully undermines the author's main argument
+
+1.02 mc How difficult was this task for you, on the whole?
+1.02.01 1: Easier than anything I've ever done in a classroom setting
+1.02.02 2
+1.02.03 3
+1.02.04 4
+1.02.05 5: Middling difficulty
+1.02.06 6
+1.02.07 7
+1.02.08 8
+1.02.09 9
+1.02.10 10: Harder than anything I've ever done in a classroom setting
+options 1.02.* highlight=False
+
+1.03 mc How confident are you about your answers, on the whole?
+1.03.01 1: I was guessing randomly for everything
+1.03.02 2
+1.03.03 3
+1.03.04 4
+1.03.05 5: 50-50
+1.03.06 6
+1.03.07 7
+1.03.08 8
+1.03.09 9
+1.03.10 10: 100% certain about all my answers
+options 1.03.* highlight=False

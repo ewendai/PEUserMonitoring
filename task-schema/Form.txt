@@ -1,0 +1,20 @@
+
+version: 4
+
+topic 1 Quoted Sources
+
+
+"""Use the 'Quoted Sources' label to highlight BOTH the names of anyone (person or organization) quoted or paraphrased in the article AND the quote or paraphrase itself. Each source, and all of the quotes or paraphrases of that source, should get its own case flag."""
+
+topic 2 Assertions
+
+"""Highlight each assertion. An assertion is a claim that is NOT supported with reasoning, justification, or evidence. Each assertion should receive its own case flag."""
+
+topic 3 Arguments
+
+"""Highlight each argument. An argument is a claim that is supported. Highlight both the claim and the reasoning, justification, or evidence that supports the claim. Do not highlight background information unrelated to an argument. Each claim (and the reasoning and evidence supporting it) should receive its own case flag. Note: An argument can sometimes span many sentences or even paragraphs."""
+
+
+topic 4 Needs Fact-Check
+
+"""Highlight any assertions (i.e. unsupported claims) that are worth the effort of fact-checking. Use the Needs Fact-check label for claims that are (a) important to the central argument/s of the article, (b) are not supported by evidence given in the article, and (c) are theoretically verifiable, i.e. matters of fact, not opinion."""

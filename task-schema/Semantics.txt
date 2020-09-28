@@ -1,0 +1,20 @@
+
+version: 4
+
+topic 1 Language
+
+
+"""Use the ‘Language’ label to highlight for issues of tone and typos. Is the author biasing the story with strong words? Is it sloppily written, with typos, poorly written sentences, or ambiguous language? Is it slanted or manipulative? The Language label typically requires short highlights of individual words or phrases. You can also use this label for passages that do an especially good job of handling heated issues."""
+
+topic 2 Reasoning
+
+"""Use the ‘Reasoning’ label for phrases and sentences that seem misleading, biased, or illogical. Adjust case flag numbers to distinguish separate instances of poor reasoning. Also use this label to highlight instances of poor reasoning that the author critiques; if done well, the author may earn kudos."""
+
+topic 3 Probability
+
+"""Use the 'Probability' label to highlight any text containing indications of probabilistic reasoning (overconfidence or underconfidence) or other reasoning about uncertainty, both good and bad. This includes phrases indicating high confidence like "without a doubt," phrases indicating uncertainty like "maybe," probabilistic language like "90% chance," and statistics. If the article includes probabilistic reasoning about more than one topic or issue, set a unique case flag for each."""
+
+
+topic 4 Evidence
+
+"""Use the ‘Evidence’ label when an article describes evidence or data that is meant to support some conclusion or claim. Whether you think the evidence is great or bogus, highlight it so that specialists can review it. Use case flags to differentiate each piece of evidence. And also be sure to highlight any information describing how the evidence was gathered or measured. This label is often applied on relatively large passages of text, sometimes even entire paragraphs."""
