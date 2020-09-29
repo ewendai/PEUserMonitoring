@@ -1,0 +1,70 @@
+version: 4
+
+topic 1 Source relevance
+
+
+
+1.01 cl Highlight whatever parts of the quoted or paraphrased source are...(check & highlight all that apply)
+1.01.01 Honorific (e.g. Mr. Mrs., Dr.)
+1.01.02 Title, role, or position (e.g. "Professor of Paleontology")
+1.01.03 First name (e.g. "Jon")
+1.01.04 Middle name or initial #do we really need this?
+1.01.05 Last name (e.g. "Snow")
+1.01.06 Other description of person (e.g. "Boston's favorite ice cream heiress")
+1.01.07 Organization (e.g. "from House Stark" or "of the University of Lichfield")
+1.01.08 Description of Organization (i.e. "a Springfield institution")
+1.01.09 Only a vague description (e.g. "experts say ...")
+
+1.02 cl Using the highlight options below, indicate which portions of the bolded text are:
+1.02.01 Direct quote
+1.02.02 Paraphrase
+
+1.03 cl Using the highlight options below, indicate how the quotes/paraphrases were gathered by the reporter:
+1.03.01 Spoken directly to the reporter
+1.03.02 Spoken into a video and/or audio recording device
+1.03.03 Heard or read by third party.
+1.03.04 Written public material (e.g. book, social media, etc.)
+1.03.05 Written private correspondence (e.g. email)
+1.03.06 Can't tell
+
+options 1.03.06 highlight=False
+
+
+
+1.04 mc How are the quoted sources' ideas important to the article?
+1.04.01 Central idea/s of article.
+1.04.02 Provide important support to central claim of article.
+1.04.03 Provide non-essential context for article.
+1.04.04 Irrelevant to central claim
+1.04.05 Conflicts with claims/arguments of other sources in article.
+1.04.06 Conflicts somewhat with claims/arguments of author, but refuted.
+1.04.07 Conflicts strongly with claims/arguments of author, & not refuted.
+
+options 1.04.* highlight=False
+
+1.05 mc How difficult was this task for you, on the whole?
+1.05.01 1: Easier than anything I've ever done in a classroom setting
+1.05.02 2
+1.05.03 3
+1.05.04 4
+1.05.05 5: Middling difficulty
+1.05.06 6
+1.05.07 7
+1.05.08 8
+1.05.09 9
+1.05.10 10: Harder than anything I've ever done in a classroom setting
+options 1.05.* highlight=False
+
+
+1.06 mc How confident are you about your answers, on the whole?
+1.06.01 1: I was guessing randomly for everything
+1.06.02 2
+1.06.03 3
+1.06.04 4
+1.06.05 5: 50-50
+1.06.06 6
+1.06.07 7
+1.06.08 8
+1.06.09 9
+1.06.10 10: 100% certain about all my answers
+options 1.06.* highlight=False
